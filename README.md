@@ -22,7 +22,7 @@ This project present some KPIs of car sales and profit on a dashboard designed w
 
 4. **Results**:
    - Below are some examples of the visualizations:
-     - ![Sales](C:\Users\rioux\Documents\GitHub\Images\Sales.png)
+     - ![Sales](Images/Sales.png) 
 
 ## Contact
 
