@@ -21,7 +21,7 @@ This project present some KPIs of car sales and profit on a dashboard designed w
         (3)Create a bar chart to capture Quantity sold by model; (4)Capture Average quantity sold
 
 4. **Results**:
-   - Below are some examples of the visualizations:
+   Below is a screenshot of the sales dashboard in Looker Studio
      - ![Sales](Images/Sales.png) 
 
 ## Contact
