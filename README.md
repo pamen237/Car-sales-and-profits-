@@ -37,7 +37,7 @@ This project present some KPIs of : (1) car sales and profit; (2) car service, o
 4. **Results**:
    Below is a screenshot of the sales dashboard in Looker Studio
      -> ![Sales](Images/Sales.png)
-     -> ![Service](Images/Service.png) 
+     -> ![Service](Images/SERVICE.png) 
 
 
 ## Contact
